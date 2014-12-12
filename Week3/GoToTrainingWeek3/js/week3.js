@@ -20,3 +20,12 @@ console.log(bowlOfFruit);
 
 console.log(bowlOfFruit[1]);
 
+//how many fruits are in the bowl?
+//how many items are in an array?
+//Length of the array
+// Dot Syntax - "use a period!"
+console.log(bowlOfFruit.length);
+
+//What is the last index number of the array, using the length property?
+// Last index number is ALWAYS one less than the length.
+// bowlOfFruit.length - 1 - last index #
