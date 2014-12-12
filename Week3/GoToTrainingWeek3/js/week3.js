@@ -19,3 +19,4 @@ console.log(bowlOfFruit);
 //How can i get one fruit inside the bowl.
 
 console.log(bowlOfFruit[1]);
+
