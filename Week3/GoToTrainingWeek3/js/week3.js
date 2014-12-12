@@ -11,7 +11,7 @@
 
 //Create our "fruit bowl" array
 
-var bowlOfFruit = ["apple", "banana","pear", "peach"];
+var bowlOfFruit = ["apple", "banana","pear", "peach", "pear", "tomato", "kiwi", "pear"];
 
 //Console logs the WHOLE array
 console.log(bowlOfFruit);
@@ -47,4 +47,41 @@ if(bowlOfFruit[0]==="pear")
     //This code will run if the if statement is FALSE!
 
     console.log("This fruit is not a pear");
+}
+
+if(bowlOfFruit[1]==="pear!") {
+ //this will run if true
+ //add one to our counting variable
+ console.log("This fruit is a pear!")
+ totalNumPears++;
+
+} else {
+    //This code will run if the statement is FALSE!
+
+     console.log("This fruit is not a pear!");
+
+}
+
+if(bowlOfFruit[2]==="pear") {
+ //this will run if true
+ //add one to our counting variable
+ console.log("This fruit is a pear!")
+ totalNumPears++;
+
+} else {
+    //This code will run if the statement is False!
+
+ console.log("This fruit is not a pear!");
+}
+
+if(bowlOfFruit[3]==="pear") {
+ //this will run if true
+ //add one to our counting variable
+ console.log("This fruit is a pear!")
+ totalNumPears++;
+
+} else {
+ //This code will run if the statement is False!
+
+ console.log("This fruit is not a pear!");
 }

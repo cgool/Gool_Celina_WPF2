@@ -27,11 +27,21 @@
       <file leaf-file-name="week3.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/week3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38053098" vertical-offset="87" max-vertical-offset="825">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.7300885" vertical-offset="75" max-vertical-offset="1380">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -223,10 +233,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/week3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38053098" vertical-offset="87" max-vertical-offset="825">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.7300885" vertical-offset="75" max-vertical-offset="1380">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
