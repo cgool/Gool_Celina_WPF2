@@ -36,4 +36,15 @@ var totalNumPears = 0;
 
 //if(condition to test) { Code to run if true}
 
-if(bowlOffruit{0}===
+if(bowlOfFruit[0]==="pear")
+{
+ //this will run if true
+ //add one to our counting variable
+ console.log("This fruit is a pear!")
+ totalNumPears++;
+
+} else {
+    //This code will run if the if statement is FALSE!
+
+    console.log("This fruit is not a pear");
+}
